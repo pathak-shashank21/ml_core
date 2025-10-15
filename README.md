@@ -46,6 +46,6 @@ Sample mini-projects:
 
 ## 🧩 Environment Setup
 ```bash
-python3 -m venv .venv
-source .venv/bin/activate
+python3 -m venv ml_core
+source ml_core/bin/activate
 pip install -r requirements.txt
